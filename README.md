@@ -97,13 +97,21 @@ jupyter notebook
 * Add automated evaluation metrics
 
 ---
-
+🚀 Part of my ALX Data Science Portfolio Project  
 ## 👨‍💻 Author
 
 **Murad Amin Imer**
 
 * Data Analyst | Machine Learning Enthusiast
-* 📍 Ethiopia
+#machine-learning
+#data-science
+#clustering
+#kmeans
+$hierarchical-clustering
+#unsupervised-learning
+#python
+#data-analysis
+##ALXProjectPortfolio 
 
 ---
 
