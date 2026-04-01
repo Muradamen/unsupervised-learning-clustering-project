@@ -76,11 +76,10 @@ Using **K-Means** and **Hierarchical Clustering**, the project segments data int
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/customer-segmentation-clustering-analysis.git
+git clone https://github.com/Muradamen/unsupervised-learning-clustering-project.git
 
 # Navigate into the project
-cd customer-segmentation-clustering-analysis
-
+cd unsupervised-learning-clustering-project
 # Install dependencies
 pip install -r requirements.txt
 
